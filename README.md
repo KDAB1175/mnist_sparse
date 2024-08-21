@@ -1,3 +1,5 @@
+![Alt Text](https://media0.giphy.com/media/3otPozLf8GLNVWoF7G/giphy.gif?cid=6c09b9522c5irqr1c7n2e2otcvqift94mg2mdg2kh2yjlrh4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 # mnist_sparse
 ML classifier on MNIST dataset with sparsely connected layers. Build with Python and Pytorch
 
